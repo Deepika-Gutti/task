@@ -1,3 +1,7 @@
 hii guys...
 good afternoon
+<<<<<<< HEAD
 hii hello
+=======
+hi
+>>>>>>> fb5069c85e2071976b9457fa0d1d26cbc5d3cdb8
